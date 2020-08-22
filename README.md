@@ -33,7 +33,7 @@ This new approach will enable coders to
 - 🤖🖖 gain independence from humans
 - 🤡🚩and easily redflag scammers.
 
-It is based on 6 simple architectural ideas:
+It is based on 5 simple architectural ideas:
 
 ## 💎 Simple Is Better
 Keep smart contracts simple; keep smart contracts secure.
