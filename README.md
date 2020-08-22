@@ -5,7 +5,7 @@ By AleToschi.eth, CD and Vasapower.eth
 Original Manifesto: https://medium.com/dfohub/the-responsible-defi-manifesto-1c6ea42f5835
 
 ## ABSTRACT
-The DeFi ecosystem is one of the most interesting experiment ever conducted in crypto. It aims to disrupt finance by creating a new censorship-resistant and anonymous layer on top of Ethereum. DeFi dApps have been around for a while, but this era truly began with one of the most ambitious Eth projects ever, in 2019: MakerDAO, with its stable coin $DAI.
+The DeFi ecosystem is one of the most interesting experiments ever conducted in crypto. It aims to disrupt finance by creating a new censorship-resistant and anonymous layer on top of Ethereum. DeFi dApps have been around for a while, but this era truly began with one of the most ambitious Eth projects ever, in 2019: MakerDAO, with its stable coin $DAI.
 At this early stage, other useful DeFi dApps appeared, like MakerDAO (Debt-Based Stability), Uniswap (AMM Protocol), WBTC (BTC on Ethereum), Nexus Mutual (Smart Contract Insurance), Aave (Flash Loans), Compound (Lending/Borrowing), Set Protocol (Basket Portfolio) and DyDx (Margin Trading and Derivatives).
 Next, the craziness of the crypto world intensified, and the DeFi ecosystem set off on a furious race to chase capital and speculative hype. There are now hundreds of DeFi dApps and tokens, and it has become impossible to track them all, even for the website https://defipulse.com. This is even without taking into account fake DeFi dApps that are actually CeFi, but which are trying to sell themselves as DeFi…
 And now, the speculative side of DeFi has created the wildest monster in the field (from a developer's perspective): YIELD FARMING.
