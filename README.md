@@ -2,6 +2,8 @@
 A proposal for Ethereans to buidl Decentralized Finance in a more pragmatic and responsible way
 By AleToschi.eth, CD and Vasapower.eth
 
+Original Manifesto: https://medium.com/dfohub/the-responsible-defi-manifesto-1c6ea42f5835
+
 ## ABSTRACT
 The DeFi ecosystem is the most interesting experiment ever conducted in crypto. It aims to disrupt finance by creating a new censorship-resistant and anonymous layer on top of Ethereum. DeFi dApps have been around for a while, but this era truly began with one of the most ambitious Eth projects ever, in 2019: MakerDAO, with its stable coin $DAI.
 At this early stage, other useful DeFi dApps appeared, like MakerDAO (Debt-Based Stability), Uniswap (AMM Protocol), WBTC (BTC on Ethereum), Nexus Mutual (Smart Contract Insurance), Aave (Flash Loans), Compound (Lending/Borrowing), Set Protocol (Basket Portfolio) and DyDx (Margin Trading and Derivatives).
